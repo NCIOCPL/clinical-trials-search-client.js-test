@@ -1,5 +1,5 @@
 {
-  "name": "clinical-trials-service",
+  "name": "clinical-trials-search-client.js-test",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -8,7 +8,7 @@
     "test": "echo \"TESTING !!!!\"",
     "build": "tsc"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/nciocpl" },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nciocpl/clinical-trials-search-client.js-test.git"
